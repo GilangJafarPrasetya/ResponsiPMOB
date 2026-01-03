@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053675422668",
+    "project_id": "tugaspmob-16c5b",
+    "storage_bucket": "tugaspmob-16c5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053675422668:android:25ffaca68f1bbcd38ed369",
+        "android_client_info": {
+          "package_name": "com.example.mylocation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjwY9vsr8vRBgqNMbyjMWvAGyPA6Fd2Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
